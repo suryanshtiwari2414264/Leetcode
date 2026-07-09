@@ -55,33 +55,70 @@
 //         return water;
 //     }
 // };
-class Solution {
-public:
-    int trap(vector<int>& height) {
 
-        int n = height.size();
 
-        if(n == 0)
-            return 0;
+// class Solution {
+// public:
+//     int trap(vector<int>& height) {
 
-        vector<int> Lmax(n), Rmax(n);
+//         int n = height.size();
 
-        Lmax[0] = height[0];
-        for(int i = 1; i < n; i++) {
-            Lmax[i] = max(Lmax[i - 1], height[i]);
+//         if(n == 0)
+//             return 0;
+
+//         vector<int> Lmax(n), Rmax(n);
+
+//         Lmax[0] = height[0];
+//         for(int i = 1; i < n; i++) {
+//             Lmax[i] = max(Lmax[i - 1], height[i]);
+//         }
+
+//         Rmax[n - 1] = height[n - 1];
+//         for(int i = n - 2; i >= 0; i--) {
+//             Rmax[i] = max(Rmax[i + 1], height[i]);
+//         }
+
+//         int ans = 0;
+
+//         for(int i = 1; i < n - 1; i++) {
+//             ans += min(Lmax[i], Rmax[i]) - height[i];
+//         }
+
+//         return ans;
+//     }
+// };
+
+
+//Optimal approach
+class Solution{
+    public:
+        int trap(vector<int> & height){
+            int n=height.size();
+            int ans=0;
+            int left=0;
+            int right=n-1;
+            int lmax=0,rmax=0;
+            while(left<right){
+                if(height[left]<=height[right]){
+                    if(lmax>height[left]){
+                        ans += lmax-height[left];
+                    }
+                    else
+                        lmax=height[left];
+                    left++;
+                }
+                else{
+                    if(rmax>height[right]){
+                        ans+= rmax-height[right];
+                    }
+                    else{
+                        rmax=height[right];
+                    }
+                    right--;
+                }
+
+            }
+            return ans;
         }
 
-        Rmax[n - 1] = height[n - 1];
-        for(int i = n - 2; i >= 0; i--) {
-            Rmax[i] = max(Rmax[i + 1], height[i]);
-        }
-
-        int ans = 0;
-
-        for(int i = 1; i < n - 1; i++) {
-            ans += min(Lmax[i], Rmax[i]) - height[i];
-        }
-
-        return ans;
-    }
 };
