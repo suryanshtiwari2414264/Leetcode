@@ -11,6 +11,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -35,4 +36,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
