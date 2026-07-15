@@ -10,6 +10,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1470-shuffle-the-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
