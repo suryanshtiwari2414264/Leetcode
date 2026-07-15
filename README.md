@@ -34,6 +34,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
@@ -46,5 +47,6 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
