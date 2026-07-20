@@ -9,6 +9,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -20,6 +21,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,5 +87,6 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
