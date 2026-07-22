@@ -1,30 +1,29 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int n = s1.length();
-        int m = s2.length();
-        if(m<n) return false;
-        int freq1[26]={0};
-        for(int i=0;i<n;i++){
-            freq1[s1[i]-'a']++;
-        }
-        for(int i=0;i<=m-n;i++){
-            int freq2[26]={0};
-            for(int j=0;j<n;j++){
-                freq2[s2[i+j]-'a']++;
-            }
-            if(isMatched(freq1,freq2)){
-                return true;
-            }
-        }
-        return false;
-    }
-    private:
-         bool isMatched(int freq1[],int freq2[]){
-        for(int i=0;i<26;i++){
-            if(freq1[i] != freq2[i])
+        int n=s1.length();
+        int m=s2.length();
+        if(n>m){
             return false;
         }
-        return true;
+    vector<int> s1_freq(26,0);
+    vector<int> s2_freq(26,0);
+    for(char ch: s1){
+        s1_freq[ch-'a']++;
+    }
+    int i =0;
+    int j=0;
+    while(j<m){
+        s2_freq[s2[j]-'a']++;
+        if((j-i+1)>n){
+            s2_freq[s2[i]-'a']--;
+            i++;
+        }
+        if(s1_freq == s2_freq){
+            return true;
+        }
+        j++;
+    }
+    return false;
     }
 };
