@@ -22,6 +22,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0001-two-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
 ## Design
