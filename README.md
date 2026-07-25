@@ -6,6 +6,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -64,6 +65,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -134,4 +136,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
