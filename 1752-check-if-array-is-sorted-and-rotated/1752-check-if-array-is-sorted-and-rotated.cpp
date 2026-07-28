@@ -2,15 +2,23 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n=nums.size();
-       int peak=0;
-       for(int i=0;i<n;i++)
-       {
-        if(nums[i]>nums[(i+1)%n])
+        vector<int>sorted=nums;
+        sort(nums.begin(),nums.end());
+        for(int r=0;r<n;r++)
         {
-            peak++;
+            bool isSorted = true;
+            for(int i =0;i<n;i++)
+            {
+                if(sorted[i]!= nums[(i+r)%n])
+                {
+                    isSorted =false;
+                    break;
+                }
+            }
+            if(isSorted){
+                return true;
+            }
         }
-       }
-       
-      return peak <=1;
+       return false;
     }
 };
