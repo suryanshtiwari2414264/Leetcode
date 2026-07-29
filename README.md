@@ -13,6 +13,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -28,6 +29,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -53,6 +55,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0007-reverse-integer](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
