@@ -1,12 +1,28 @@
+// class Solution {
+// public:
+//     int missingNumber(vector<int>& nums) {
+//         int n=nums.size();
+//         int ans = n;
+//         for(int i=0;i<n;i++){
+//             ans ^= i;
+//             ans ^= nums[i];
+//         }
+//         return ans;
+//     }
+// };
+
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        int ans = n;
-        for(int i=0;i<n;i++){
-            ans ^= i;
-            ans ^= nums[i];
+        int expected=0;
+        int actual=0;
+        for(int i=0;i<=n;i++){
+            expected ^= i;
         }
-        return ans;
+        for(int num:nums){
+            actual ^=num;
+        }
+        return expected ^ actual;
     }
 };
