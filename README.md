@@ -107,6 +107,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,4 +158,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
