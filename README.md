@@ -162,14 +162,17 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -178,4 +181,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
