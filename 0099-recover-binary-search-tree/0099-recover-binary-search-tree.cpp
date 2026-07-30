@@ -10,47 +10,36 @@
  * };
  */
 class Solution {
-public:
-   void Inorder(TreeNode* root ,vector<int> &nums){
-        if(root==NULL)
-            return;
-        Inorder (root->left,nums);
-        nums.push_back(root->val);
-        Inorder(root->right,nums);
-    }
-    vector<int> find_XY(vector<int> nums){
-        int n= nums.size();
-        int x=-1,y=-1;
-        bool flag=false;
-        for(int i =0;i<n-1;++i){
-            if(nums[i+1]<nums[i]){
-                y=nums[i+1];
-                if(flag==0){
-                    x=nums[i];
-                    flag=true;
+    private:
+        TreeNode* first;
+        TreeNode* prev;
+        TreeNode* middle;
+        TreeNode* last;
+    private:
+        void inorder(TreeNode* root){
+            if(root==NULL) return;
+            inorder(root->left);
+            if(prev!=NULL && (root->val <prev->val)){
+                if(first==NULL){
+                    first = prev;
+                    middle = root;
                 }
-                else{
-                    break;
-                }
+                else
+                    last=root;
             }
+            prev = root;
+            inorder(root->right);
+
         }
-        return vector<int>{x,y};
-    }
-    void recover(TreeNode* root, int count, int x , int y) {
-        if(root != NULL){
-            if(root-> val == x || root-> val==y ){
-                root->val= root->val == x ? y:x;
-                if(--count == 0)
-                    return;
-            }
-            recover(root->left,count,x,y);
-            recover(root->right,count,x,y);
-        }       
-    }
+
+public:  
     void recoverTree(TreeNode* root){
-        vector<int> nums;
-        Inorder(root,nums);
-        vector<int> swapped = find_XY(nums);
-        recover(root,2,swapped[0],swapped[1]);
+      first = middle = last= NULL;
+      prev = new TreeNode(INT_MIN);
+      inorder(root);
+      if(first && last)
+        swap(first->val,last->val);
+      else if(first && middle)
+        swap(first->val, middle-> val);
     }
 };
