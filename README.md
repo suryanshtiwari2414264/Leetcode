@@ -57,6 +57,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -144,6 +146,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
