@@ -59,6 +59,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
