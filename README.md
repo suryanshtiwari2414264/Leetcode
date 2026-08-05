@@ -10,6 +10,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
