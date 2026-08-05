@@ -10,6 +10,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
@@ -31,6 +32,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
@@ -124,6 +126,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
@@ -206,4 +209,12 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
