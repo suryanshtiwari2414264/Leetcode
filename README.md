@@ -14,6 +14,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
