@@ -18,18 +18,35 @@
 
 // WE WILL GET TLE FOR THE BRUTE FORCE 
 // NOW KADANE'S ALGO
+// class Solution {
+// public:
+//     int maxSubArray(vector<int>& nums) {
+//         int currsum=0;
+//         int maxsum=INT_MIN;
+//         for(int num:nums){
+//             currsum += num;
+//             maxsum=max(maxsum,currsum);
+//             if(currsum<0)
+//                 currsum=0;
+//         }
+//         return maxsum;
+        
+//     }
+// };
+
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-        int currsum=0;
-        int maxsum=INT_MIN;
-        for(int num:nums){
-            currsum += num;
-            maxsum=max(maxsum,currsum);
-            if(currsum<0)
-                currsum=0;
+     int maxSubArray(vector<int>& nums) {
+        int sum=0;
+        int maxm=INT_MIN;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            sum += nums[i];
+            if(sum>maxm)
+                maxm=sum;
+            if(sum<0)
+                sum=0;          
         }
-        return maxsum;
-        
+        return maxm;
     }
 };
