@@ -18,6 +18,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0076-minimum-window-substring](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
@@ -139,6 +141,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
