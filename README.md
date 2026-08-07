@@ -11,6 +11,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0031-next-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
@@ -74,6 +75,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
@@ -250,5 +252,6 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
