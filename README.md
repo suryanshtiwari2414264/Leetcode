@@ -10,6 +10,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
@@ -101,6 +102,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
