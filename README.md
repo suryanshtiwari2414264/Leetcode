@@ -61,6 +61,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -159,6 +160,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -256,4 +258,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
