@@ -210,6 +210,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +227,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Counting Sort
 |  |
 | ------- |
@@ -243,6 +246,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Quicksort
 |  |
 | ------- |
