@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ // MORRIS TRAVERSAL APPROACH
 class Solution {
 public:
     TreeNode* convertBST(TreeNode* root) {
