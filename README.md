@@ -7,6 +7,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0001-two-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0031-next-permutation) |
@@ -40,6 +41,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0027-remove-element) |
@@ -151,6 +153,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0147-insertion-sort-list) |
