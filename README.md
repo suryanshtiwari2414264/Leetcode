@@ -14,6 +14,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -293,4 +294,5 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
