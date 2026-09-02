@@ -89,6 +89,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
@@ -194,6 +195,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0050-powx-n](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
