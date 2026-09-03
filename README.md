@@ -169,6 +169,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0217-contains-duplicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -233,6 +234,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,6 +259,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
