@@ -128,6 +128,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0135-candy](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0135-candy) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0004-median-of-two-sorted-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -246,6 +249,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -259,6 +263,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Counting Sort
 |  |
@@ -277,6 +282,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
