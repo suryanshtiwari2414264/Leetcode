@@ -243,6 +243,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -260,6 +261,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -279,6 +281,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -301,6 +304,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
