@@ -65,6 +65,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Stack
@@ -241,6 +242,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -262,6 +264,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -285,6 +288,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -364,6 +368,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
