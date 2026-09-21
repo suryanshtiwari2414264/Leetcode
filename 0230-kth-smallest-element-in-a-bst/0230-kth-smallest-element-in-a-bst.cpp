@@ -26,37 +26,50 @@
 //     }
 // };
 
-//2nd APPROACH
-class Solution {
-public:
-    int kthSmallest(TreeNode* root, int k)
-    {
-        stack<TreeNode*>st;
-        TreeNode* curr= root;
-        while(curr!=NULL || !st.empty())
-        {
-            while(curr!=NULL){
-                st.push(curr);
-                curr = curr->left;
-            }
-            curr = st.top();
-            st.pop();
-            k--;
-            if(k==0)
-                return curr->val;
-            curr = curr->right;
-        }
-        return -1;
-    }
-
-};
-
-//3rd APPROACH
+// //2nd APPROACH
 // class Solution {
 // public:
-//     int kthSmallest(TreeNode* root, int k){
-        
-
+//     int kthSmallest(TreeNode* root, int k)
+//     {
+//         stack<TreeNode*>st;
+//         TreeNode* curr= root;
+//         while(curr!=NULL || !st.empty())
+//         {
+//             while(curr!=NULL){
+//                 st.push(curr);
+//                 curr = curr->left;
+//             }
+//             curr = st.top();
+//             st.pop();
+//             k--;
+//             if(k==0)
+//                 return curr->val;
+//             curr = curr->right;
+//         }
+//         return -1;
 //     }
 
 // };
+
+//3rd APPROACH
+class Solution {
+public:
+    int kthSmallest(TreeNode* root, int k){
+        queue<TreeNode*> q;
+        vector<int>ans;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode * node = q.front();
+            q.pop();
+            ans.push_back(node->val);
+            if(node->left)
+                q.push(node->left);
+            if(node->right)
+                q.push(node->right);
+            
+        }
+        sort(ans.begin(),ans.end());
+        return ans[k-1];
+    }
+
+};
