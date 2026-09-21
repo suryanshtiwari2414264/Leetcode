@@ -239,6 +239,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0098-validate-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -266,6 +267,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0098-validate-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -291,6 +293,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0098-validate-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -335,6 +338,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
