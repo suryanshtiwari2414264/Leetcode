@@ -7,70 +7,105 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+//  BFS APPROACH
+// class Codec {
+// public:
+
+//     // Encodes a tree to a single string.
+//     string serialize(TreeNode* root) {
+//         if(!root) 
+//             return "";
+//         string s ="";
+//         queue<TreeNode*>q;
+//         q.push(root);
+//         while(!q.empty()){
+//             TreeNode* currNode = q.front();
+//             q.pop();
+//             if(currNode == nullptr){
+//                 s.append("#,");
+//             }
+//             else 
+//                 s.append(to_string(currNode->val)+',');
+//             if(currNode != nullptr){
+//                 q.push(currNode ->left);
+//                 q.push(currNode->right);
+//             }
+//         }
+//         return s;
+//     }
+
+//     // Decodes your encoded data to tree.
+//     TreeNode* deserialize(string data) {
+//         if(data.size() == 0)
+//             return nullptr;
+//         stringstream s(data);
+//         string str;
+//         getline(s,str,',');
+//         TreeNode* root = new TreeNode(stoi(str));
+//         queue<TreeNode*> q;
+//         q.push(root);
+//         while(!q.empty()){
+//             TreeNode * node = q.front();
+//             q.pop();
+//             getline(s,str,',');
+//             if(str == "#"){
+//                 node->left = nullptr;
+//             }
+//             else{
+//                 TreeNode* leftNode = new TreeNode(stoi(str));
+//                 node-> left = leftNode;
+//                 q.push(leftNode);
+
+//             }
+//             getline(s,str,',');
+//             if(str=="#"){
+//                 node->right = nullptr;
+//             }
+//             else{
+//                 TreeNode* rightNode = new TreeNode(stoi(str));
+//                 node->right = rightNode;
+//                 q.push(rightNode);
+//             }
+//         } 
+//         return root;
+        
+//     }
+// };
+
+
+// DFS APPROACH
 class Codec {
 public:
-
-    // Encodes a tree to a single string.
-    string serialize(TreeNode* root) {
-        if(!root) 
-            return "";
-        string s ="";
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* currNode = q.front();
-            q.pop();
-            if(currNode == nullptr){
-                s.append("#,");
-            }
-            else 
-                s.append(to_string(currNode->val)+',');
-            if(currNode != nullptr){
-                q.push(currNode ->left);
-                q.push(currNode->right);
-            }
+    void preorder(TreeNode* root, string& s) {
+        if (root == nullptr) {
+            s += "#,";
+            return;
         }
+        s += to_string(root->val) + ",";
+        preorder(root->left, s);
+        preorder(root->right, s);
+    }
+    string serialize(TreeNode* root) {
+        string s;
+        preorder(root, s);
         return s;
     }
-
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        if(data.size() == 0)
-            return nullptr;
-        stringstream s(data);
+    TreeNode* build(stringstream& ss) {
         string str;
-        getline(s,str,',');
+        getline(ss, str, ',');
+        if (str == "#")
+            return nullptr;
         TreeNode* root = new TreeNode(stoi(str));
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode * node = q.front();
-            q.pop();
-            getline(s,str,',');
-            if(str == "#"){
-                node->left = nullptr;
-            }
-            else{
-                TreeNode* leftNode = new TreeNode(stoi(str));
-                node-> left = leftNode;
-                q.push(leftNode);
-
-            }
-            getline(s,str,',');
-            if(str=="#"){
-                node->right = nullptr;
-            }
-            else{
-                TreeNode* rightNode = new TreeNode(stoi(str));
-                node->right = rightNode;
-                q.push(rightNode);
-            }
-        } 
+        root->left = build(ss);
+        root->right = build(ss);
         return root;
-        
+    }
+    TreeNode* deserialize(string data) {
+        stringstream ss(data);
+        return build(ss);
     }
 };
-
 // Your Codec object will be instantiated and called as such:
 // Codec ser, deser;
 // TreeNode* ans = deser.deserialize(ser.serialize(root));
