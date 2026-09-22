@@ -58,7 +58,7 @@ public:
             }
             getline(s,str,',');
             if(str=="#"){
-                node->right == nullptr;
+                node->right = nullptr;
             }
             else{
                 TreeNode* rightNode = new TreeNode(stoi(str));
