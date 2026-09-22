@@ -160,6 +160,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -192,6 +193,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
@@ -260,6 +262,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0199-binary-tree-right-side-view](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -286,6 +289,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0199-binary-tree-right-side-view](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -316,6 +320,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0199-binary-tree-right-side-view](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -355,6 +360,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Quicksort
