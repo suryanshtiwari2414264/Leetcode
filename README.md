@@ -155,6 +155,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
 ## Design
@@ -182,6 +183,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -268,6 +270,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -295,6 +298,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -326,6 +330,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0543-diameter-of-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -362,6 +367,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Quicksort
 |  |
