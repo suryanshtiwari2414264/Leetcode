@@ -6,25 +6,35 @@ public:
         int count =0;
         for(int i = 0; i<n;i++){
             if(visited[i]==false){
-                bfs(isConnected,i,visited);
+                // bfs(isConnected,i,visited);
+                dfs(isConnected, i, visited);
                 count++;
             }
         }
         return count;
     }
-    void bfs( vector<vector<int>>&isConnected,int src,vector<bool>&visited){
-        queue<int>q;
-        q.push(src);
-        visited[src]=true;
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-            // Push all unvisited neighbour
-            for (int v = 0; v < isConnected.size(); v++){
-                if(visited[v]==false && isConnected[u][v]==1){
-                q.push(v);
-                visited[v]=true;
-                }
+    // void bfs( vector<vector<int>>&isConnected,int src,vector<bool>&visited){
+    //     queue<int>q;
+    //     q.push(src);
+    //     visited[src]=true;
+    //     while(!q.empty()){
+    //         int u = q.front();
+    //         q.pop();
+    //         // Push all unvisited neighbour
+    //         for (int v = 0; v < isConnected.size(); v++){
+    //             if(visited[v]==false && isConnected[u][v]==1){
+    //             q.push(v);
+    //             visited[v]=true;
+    //             }
+    //         }
+    //     }
+    // }
+    //d(fs
+    void dfs(vector<vector<int>> &isConnected, int src,vector<bool>&visited){
+        visited[src] =true;
+        for(int v = 0;v<isConnected.size() ; v++){
+            if(visited[v]==false && isConnected[src][v]==1){
+                dfs(isConnected,v,visited);
             }
         }
     }
