@@ -203,6 +203,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0020-valid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
@@ -382,6 +383,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0200-number-of-islands](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
@@ -423,6 +425,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
