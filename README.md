@@ -44,6 +44,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -134,6 +135,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -146,6 +148,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +198,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
@@ -239,6 +243,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
