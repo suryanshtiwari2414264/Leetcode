@@ -16,7 +16,6 @@ public:
         int old_color = image[sr][sc];
         if(old_color != color){
             dfs(image,sr,sc,old_color,color);
-            return image;
         }
         return image;
     }
