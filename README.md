@@ -110,6 +110,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0342-power-of-four](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -151,6 +152,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
