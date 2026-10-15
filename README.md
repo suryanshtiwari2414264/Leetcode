@@ -61,6 +61,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0031-next-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0002-add-two-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0142-linked-list-cycle-ii) |
