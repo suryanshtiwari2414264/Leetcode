@@ -38,6 +38,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -405,6 +406,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
 | ------- |
@@ -432,6 +434,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0200-number-of-islands](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 ## Bracket Sequences
 |  |
 | ------- |
