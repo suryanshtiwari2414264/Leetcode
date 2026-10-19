@@ -45,6 +45,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -147,6 +148,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
@@ -212,6 +214,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
