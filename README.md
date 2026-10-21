@@ -237,6 +237,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1021-remove-outermost-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
