@@ -52,6 +52,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [2778-sum-of-squares-of-special-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -400,6 +401,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search Tree
 |  |
 | ------- |
