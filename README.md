@@ -36,6 +36,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
@@ -187,6 +188,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
+| [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -239,6 +241,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -431,6 +434,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0617-merge-two-binary-trees](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
@@ -518,4 +522,8 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
