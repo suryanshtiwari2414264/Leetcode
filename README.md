@@ -51,6 +51,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -191,6 +192,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0752-open-the-lock](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
@@ -325,6 +327,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -358,6 +361,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -439,6 +443,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Quicksort
 |  |
 | ------- |
@@ -459,6 +464,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0547-number-of-provinces](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Matrix
 |  |
 | ------- |
@@ -506,6 +512,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0547-number-of-provinces) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
