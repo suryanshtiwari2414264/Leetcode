@@ -58,6 +58,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -91,6 +92,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0509-fibonacci-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -481,6 +483,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3665-twisted-mirror-path-count](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Bracket Sequences
 |  |
 | ------- |
