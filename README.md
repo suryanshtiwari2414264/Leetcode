@@ -46,6 +46,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -82,6 +83,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0283-move-zeroes](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0268-missing-number](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
@@ -234,6 +237,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
