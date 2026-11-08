@@ -46,6 +46,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -378,6 +379,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0968-binary-tree-cameras](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -419,6 +421,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -461,6 +464,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0993-cousins-in-binary-tree](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Quicksort
 |  |
@@ -481,6 +485,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0200-number-of-islands](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Matrix
@@ -493,6 +498,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0733-flood-fill](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Bracket Sequences
 |  |
