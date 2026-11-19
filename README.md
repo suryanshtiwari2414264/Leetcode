@@ -89,6 +89,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0344-reverse-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [1021-remove-outermost-parentheses](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@ In this repository you all will be able to see my leetcode problem solving capab
 | [0203-remove-linked-list-elements](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/0622-design-circular-queue) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suryanshtiwari2414264/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
